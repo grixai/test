@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section*.2}{Abbildungsverzeichnis}{}% 1
+\BOOKMARK [1][-]{section*.3}{Tabellenverzeichnis}{}% 2
+\BOOKMARK [1][-]{section.1}{Einleitung}{}% 3
+\BOOKMARK [1][-]{section.2}{Lokalisierung auf einer bekannten Route}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Der SequenceSLAM}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Aufbau des Algorithmus}{subsection.2.1}% 6
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Pr\344prozessierung des Bildes}{subsection.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.2}{St\344rken und Schw\344chen}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Anpassungen des Algorithmus}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Vorbereitungen f\374r die Live-Anwendung}{section.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Dynamische Matrixerzeugung}{subsection.3.1}% 11
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Synchronisation der Aufnahmepunkte}{subsection.3.1}% 12
+\BOOKMARK [2][-]{subsection.3.2}{Sequenzbildung}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.3}{Loop-Closure detektieren}{section.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Dynamische Ermittlung der Sequenzl\344nge}{subsection.3.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Auswirkungen auf den Algorithmus}{subsection.3.3}% 16
+\BOOKMARK [2][-]{subsection.3.4}{Suchbereichsbegrenzung}{section.3}% 17
+\BOOKMARK [1][-]{section.4}{Biologisch inspirierte Navigation}{}% 18
+\BOOKMARK [1][-]{section.5}{Versuchsaufbau und -durchf\374hrung}{}% 19
+\BOOKMARK [1][-]{section.6}{Ergebnisse und Evaluierung des Verfahrens}{}% 20
+\BOOKMARK [1][-]{section.7}{Ausblick}{}% 21

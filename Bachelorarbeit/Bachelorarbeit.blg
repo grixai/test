@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Bachelorarbeit.aux
+The style file: ieeetr.bst
+Database file #1: Bachelorarbeit.bib
+You've used 9 entries,
+            1876 wiz_defined-function locations,
+            537 strings with 5309 characters,
+and the built_in function-call counts, 3002 in all, are:
+= -- 310
+> -- 90
+< -- 0
++ -- 34
+- -- 25
+* -- 197
+:= -- 390
+add.period$ -- 9
+call.type$ -- 9
+change.case$ -- 9
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 176
+empty$ -- 287
+format.name$ -- 25
+if$ -- 750
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 9
+newline$ -- 30
+num.names$ -- 9
+pop$ -- 37
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 136
+stack$ -- 0
+substring$ -- 232
+swap$ -- 85
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 29
+width$ -- 10
+write$ -- 95

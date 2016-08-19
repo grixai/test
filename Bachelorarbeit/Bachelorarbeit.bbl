@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+
+\bibitem{milford2012seqslam}
+M.~J. Milford and G.~F. Wyeth, ``Seqslam: Visual route-based navigation for
+  sunny summer days and stormy winter nights,'' in {\em Robotics and Automation
+  (ICRA), 2012 IEEE International Conference on}, pp.~1643--1649, IEEE, 2012.
+
+\bibitem{milford2013vision}
+M.~Milford, ``Vision-based place recognition: how low can you go?,'' {\em The
+  International Journal of Robotics Research}, vol.~32, no.~7, pp.~766--789,
+  2013.
+
+\bibitem{sunderhauf2013we}
+N.~S{\"u}nderhauf, P.~Neubert, and P.~Protzel, ``Are we there yet? challenging
+  seqslam on a 3000 km journey across all four seasons,'' in {\em Proc. of
+  Workshop on Long-Term Autonomy, IEEE International Conference on Robotics and
+  Automation (ICRA)}, p.~2013, 2013.
+
+\bibitem{wang2015improved}
+Y.~Wang, X.~Hu, J.~Lian, L.~Zhang, and X.~Kong, ``Improved seq slam for
+  real-time place recognition and navigation error correction,'' in {\em
+  Intelligent Human-Machine Systems and Cybernetics (IHMSC), 2015 7th
+  International Conference on}, vol.~1, pp.~260--264, IEEE, 2015.
+
+\bibitem{pepperell2013towards}
+E.~Pepperell, P.~Corke, and M.~Milford, ``Towards persistent visual navigation
+  using smart,'' in {\em Proceedings of Australasian Conference on Robotics and
+  Automation}, ARAA, 2013.
+
+\bibitem{thurrowgood2009vision}
+S.~Thurrowgood, D.~Soccol, R.~J. Moore, D.~Bland, and M.~V. Srinivasan, ``A
+  vision based system for attitude estimation of uavs,'' in {\em 2009 IEEE/RSJ
+  International Conference on Intelligent Robots and Systems}, pp.~5725--5730,
+  IEEE, 2009.
+
+\bibitem{otsu1975threshold}
+N.~Otsu, ``A threshold selection method from gray-level histograms,'' {\em
+  Automatica}, vol.~11, no.~285-296, pp.~23--27, 1975.
+
+\bibitem{ng2006automatic}
+H.-F. Ng, ``Automatic thresholding for defect detection,'' {\em Pattern
+  recognition letters}, vol.~27, no.~14, pp.~1644--1649, 2006.
+
+\bibitem{baddeley2012model}
+B.~Baddeley, P.~Graham, P.~Husbands, and A.~Philippides, ``A model of ant route
+  navigation driven by scene familiarity,'' {\em PLoS Comput Biol}, vol.~8,
+  no.~1, p.~e1002336, 2012.
+
+\end{thebibliography}

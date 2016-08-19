@@ -1,0 +1,30 @@
+\select@language {ngerman}
+\contentsline {section}{Abbildungsverzeichnis}{II}{section*.2}
+\contentsline {section}{Tabellenverzeichnis}{III}{section*.3}
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.1}
+\contentsline {section}{\numberline {2}Lokalisierung auf einer bekannten Route}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Der SequenceSLAM}{2}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Aufnahme der Bildsequenzen}{3}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Pr\IeC {\"a}prozessierung des Bildes}{3}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Lokalisierung der Datens\IeC {\"a}tze}{5}{subsubsection.2.1.3}
+\contentsline {subsection}{\numberline {2.2}St\IeC {\"a}rken und Schw\IeC {\"a}chen}{9}{subsection.2.2}
+\contentsline {section}{\numberline {3}Anpassungen des Algorithmus}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}Vorbereitungen f\IeC {\"u}r die Live-Anwendung}{11}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Dynamische Matrixerzeugung}{11}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Synchronisation der Aufnahmepunkte}{12}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Dynamische Ermittlung der Sequenzl\IeC {\"a}nge}{14}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Versuchsbedingungen}{15}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Versuchsergebnisse}{16}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}Sequenzbildung}{17}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Umgang mit sich selbst wiederholenden Routen}{18}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Schw\IeC {\"a}rzen des Himmels}{20}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Bildtransformation zur Kontrasterh\IeC {\"o}hung des Himmels}{21}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}Segmentation des Himmels}{21}{subsubsection.3.5.2}
+\contentsline {section}{\numberline {4}Biologisch inspirierte Navigation}{26}{section.4}
+\contentsline {subsection}{\numberline {4.1}Navigation der Ameise}{26}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Technische Umsetzung}{28}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Installation einer Omni-Kamera}{29}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Einbindung der biologischen Navigation in den SequenceSLAM}{30}{subsubsection.4.2.2}
+\contentsline {section}{\numberline {5}Versuchsaufbau und -durchf\IeC {\"u}hrung}{32}{section.5}
+\contentsline {section}{\numberline {6}Ergebnisse und Evaluierung des Verfahrens}{33}{section.6}
+\contentsline {section}{\numberline {7}Ausblick}{34}{section.7}

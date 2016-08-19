@@ -1,0 +1,17 @@
+\select@language {ngerman}
+\contentsline {figure}{\numberline {1}{\ignorespaces Bildvektoren f\IeC {\"u}r den SequenceSLAM}}{4}{figure.caption.4}
+\contentsline {figure}{\numberline {2}{\ignorespaces Pr\IeC {\"a}prozessierung des Bildes}}{5}{figure.caption.5}
+\contentsline {figure}{\numberline {3}{\ignorespaces Schematische Darstellung der Differenzenmatrix}}{6}{figure.caption.6}
+\contentsline {figure}{\numberline {4}{\ignorespaces Darstellung der Kontrastnormalisierung}}{7}{figure.caption.7}
+\contentsline {figure}{\numberline {5}{\ignorespaces Schematische Darstellung der Sequenzfindung}}{8}{figure.caption.8}
+\contentsline {figure}{\numberline {6}{\ignorespaces Lokale Kontrastnormalisierung der Grauwertvektoren}}{10}{figure.caption.10}
+\contentsline {figure}{\numberline {7}{\ignorespaces Dynamische Matrixerzeugung}}{12}{figure.caption.11}
+\contentsline {figure}{\numberline {8}{\ignorespaces Beispiel Bilder aus dem Nordland-Datensatz}}{16}{figure.caption.13}
+\contentsline {figure}{\numberline {9}{\ignorespaces Beispiele f\IeC {\"u}r Routen mit Loop Closure}}{18}{figure.caption.15}
+\contentsline {figure}{\numberline {10}{\ignorespaces Schematische Darstellung der Datenbank}}{19}{figure.caption.16}
+\contentsline {figure}{\numberline {11}{\ignorespaces Methode 1 zur Schleifenbehandlung}}{19}{figure.caption.17}
+\contentsline {figure}{\numberline {12}{\ignorespaces Methode 2 zur Schleifenbehandlung}}{19}{figure.caption.18}
+\contentsline {figure}{\numberline {13}{\ignorespaces Kontrasttransformation f\IeC {\"u}r sky blackening}}{22}{figure.caption.19}
+\contentsline {figure}{\numberline {14}{\ignorespaces Histogrammtransformation}}{22}{figure.caption.20}
+\contentsline {figure}{\numberline {15}{\ignorespaces Kontrasttransformation f\IeC {\"u}r sky blackening}}{24}{figure.caption.21}
+\contentsline {figure}{\numberline {16}{\ignorespaces Wegfindung der Ameise}}{27}{figure.caption.22}
